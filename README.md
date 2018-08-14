@@ -1,0 +1,2 @@
+# PASSPORT_AUTH_EXPRESS_EXAMPLE
+Passport Authentication Strategy Implementation Example
